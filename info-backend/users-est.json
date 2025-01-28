@@ -1,0 +1,29 @@
+[
+    {
+      "username": "user",
+      "password": "$2b$10$CwTycUXWue0Thq9StjUM0uJ8UKjxkI1qP7/5h8sGZh4FojkQX9iGm",
+      "role": "user",
+      "rut": "12345678-9",
+      "institucion": "Institution 1",
+      "mail": "user@example.com",
+      "foto": ""
+    },
+    {
+      "username": "admin",
+      "password": "$2b$10$XQX1EwZfB1U0PCy1YodMLu6/4T5c8Ly4Pz7J1Q5yKiYK6Q./5I4Ua",
+      "role": "admin",
+      "rut": "98765432-1",
+      "institucion": "Institution 2",
+      "mail": "admin@example.com",
+      "foto": ""
+    },
+    {
+      "username": "superadmin",
+      "password": "$2b$10$5K0hIO7o1q5kQ5RRaJ4BNeIYQZ3hZFP2y6v8J8u1H9X3yKjZ0xJYS",
+      "role": "superadmin",
+      "rut": "19283746-5",
+      "institucion": "Institution 3",
+      "mail": "superadmin@example.com",
+      "foto": ""
+    }
+  ]
